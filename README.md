@@ -27,8 +27,8 @@ canny=cv2.Canny(gray,120,150)
 Display all the images with their respective edge detected images.
 ## Program:
 
-### Developed by :Lakshman
-### register nuber :212222240001
+### Developed by :HARSHA VARDHAN
+### register nuber :212222240114
 
 # Import the packages
 ```python
